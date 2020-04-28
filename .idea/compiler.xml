@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AuthenticationLogin" />
+        <module name="Common" />
+        <module name="springConfig" />
+        <module name="springEureka" />
+        <module name="springFeignClient" />
+        <module name="springRabbitMQ" />
+        <module name="springRedis" />
+        <module name="springRedisTxc" />
+        <module name="springSleuth" />
+        <module name="springSwagger" />
+        <module name="springZuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AuthenticationLogin" target="1.8" />
+      <module name="Common" target="1.8" />
+      <module name="SpringCloudService" target="1.8" />
+      <module name="springConfig" target="1.8" />
+      <module name="springEureka" target="1.8" />
+      <module name="springFeignClient" target="1.8" />
+      <module name="springRabbitMQ" target="1.8" />
+      <module name="springRedis" target="1.8" />
+      <module name="springRedisTxc" target="1.8" />
+      <module name="springSleuth" target="1.8" />
+      <module name="springSwagger" target="1.8" />
+      <module name="springZuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

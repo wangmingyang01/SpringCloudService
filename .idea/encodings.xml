@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AuthenticationLogin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springConfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springEureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springFeignClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springRabbitMQ" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springRedis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springRedisTxc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springSleuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springSwagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springZuul" charset="UTF-8" />
+  </component>
+</project>

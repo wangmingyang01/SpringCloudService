@@ -1,0 +1,15 @@
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/db/service/UserService.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/RedisApp.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/db/po/User.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/ribbon/RibbonConfiguration.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/handler/HandlerConfig.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/config/CacheConfig.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/db/dao/UserDao.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/aop/AspectAop.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/ribbon/RibbonConfig.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/controller/AspectController.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/utils/JsonUtil.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/handler/DefineInterceptorHandler.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/controller/TxcController.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/controller/RedisController.java
+/home/wang/ming/workspace/SpringCloudService/springRedis/src/main/java/com/shls/controller/TestController.java

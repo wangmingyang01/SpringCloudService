@@ -1,0 +1,49 @@
+# 集群　多个集群信息放在同一个yml中
+# 指定哪一个启动Eureka spring.profiles.active = eureka2001
+# --- 连接符()
+# 取消全局注解　crtl + /
+
+#---
+#server:
+#  port: 2001
+#eureka:
+#  instance:
+#   hostname: eureka2001.hmc.com
+#  client:
+#    register-with-eureka: false
+#    service-url:
+#      defaultZone: http://eureka2002.hmc.com:2002/eureka/,http://eureka2003.hmc.com:2003/eureka/
+#spring:
+#  profiles: eureka2001
+#---
+#server:
+#  port: 2002
+#eureka:
+#  instance:
+#    hostname: eureka2002.hmc.com
+#  client:
+#    register-with-eureka: false
+#    service-url:
+#      defaultZone: http://eureka2001.hmc.com:2001/eureka/,http://eureka2003.hmc.com:2003/eureka/
+#spring:
+#  profiles: eureka2002
+#---
+#server:
+#  port: 2003
+#eureka:
+#  instance:
+#    hostname: eureka2003.hmc.com
+#  client:
+#    register-with-eureka: false
+#    service-url:
+#      defaultZone: http://eureka2001.hmc.com:2001/eureka/,http://eureka2002.hmc.com:2002/eureka/
+#spring:
+#  profiles: eureka2003
+
+
+spring:
+  rabbitmq:
+    listener:
+      simple:
+        acknowledge-mode: manual
+

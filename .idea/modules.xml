@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuthenticationLogin/AuthenticationLogin.iml" filepath="$PROJECT_DIR$/AuthenticationLogin/AuthenticationLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudService.iml" filepath="$PROJECT_DIR$/SpringCloudService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springConfig/springConfig.iml" filepath="$PROJECT_DIR$/springConfig/springConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springEureka/springEureka.iml" filepath="$PROJECT_DIR$/springEureka/springEureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springFeignClient/springFeignClient.iml" filepath="$PROJECT_DIR$/springFeignClient/springFeignClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springRabbitMQ/springRabbitMQ.iml" filepath="$PROJECT_DIR$/springRabbitMQ/springRabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springRedis/springRedis.iml" filepath="$PROJECT_DIR$/springRedis/springRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springRedisTxc/springRedisTxc.iml" filepath="$PROJECT_DIR$/springRedisTxc/springRedisTxc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springSleuth/springSleuth.iml" filepath="$PROJECT_DIR$/springSleuth/springSleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springSwagger/springSwagger.iml" filepath="$PROJECT_DIR$/springSwagger/springSwagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springZuul/springZuul.iml" filepath="$PROJECT_DIR$/springZuul/springZuul.iml" />
+    </modules>
+  </component>
+</project>
